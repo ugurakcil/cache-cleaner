@@ -2,8 +2,6 @@
 
 > *"Cache is great until it's not. Then it's a nightmare."* - Every web developer ever
 
-![Cache Cleaner Banner](https://ugurakcil.github.io/cache-cleaner/banner.png)
-
 [![GitHub license](https://img.shields.io/github/license/ugurakcil/cache-cleaner)](https://github.com/ugurakcil/cache-cleaner/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ugurakcil/cache-cleaner)](https://github.com/ugurakcil/cache-cleaner/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ugurakcil/cache-cleaner/pulls)
